@@ -16,7 +16,7 @@
         <a href="https://instagram.com/Dead.U3er">
             <img src="https://github.com/Dead-U3er/Dead-U3er/assets/103173374/0b19be09-787d-4bbe-af46-3a12b5b072b8" alt="" width="75px">
         </a>
-        <a href="https://youtube.com/c/Dead_U3er">
+        <a href="https://www.youtube.com/@dead-u3er">
             <img src="https://github.com/Dead-U3er/Dead-U3er/assets/103173374/f983c0c1-5e8e-462f-9d4b-11862e7de964" alt="" width="75px">
         </a>
     </div>
