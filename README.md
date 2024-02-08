@@ -27,7 +27,7 @@
         </a>
         <h4 align="left">
             ⚡ All of my projects are available at -> <a href="https://github.com/dead-u3er?tab=repositories">Github.com/Dead-U3er</a><br><br>
-            🌐 My website -> <a href="https://u3er.xyz">www.U3er.xyz</a><br><br>
+            🌐 My website -> <a href="https://u3er.xyz">U3er.xyz</a><br><br>
             📫 Contact with me -> <a href="mailto:support@u3er.xyz">support@u3er.xyz</a>
         </h4>
         <br>
